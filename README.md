@@ -9,7 +9,7 @@ React Todo Application using CI/CD
 ```
     npm run build
 ```
-You can view todoapp in the browser at: http://localhost:3000
+You can view todoapp in the browser at http://localhost:3000
 
 3. Init Github page
 ```
