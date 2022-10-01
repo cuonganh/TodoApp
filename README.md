@@ -43,4 +43,4 @@ Config package.json (homepage, predeploy, and deploy) such as:
 ```
     npm run deploy
 ```
-After that, you can try your react app at https://cuonganh.github.io/todoapp/
+After that, you can try your react app at https://cuonganh.github.io/TodoApp/
