@@ -8,8 +8,9 @@ React Todo Application using CI/CD
 2. Build react project
 ```
     npm run build
-You can view todoapp in the browser at: http:localhost:3000
 ```
+You can view todoapp in the browser at: http://localhost:3000
+
 3. Init Github page
 ```
     npm install gh-pages --save-dev
@@ -36,7 +37,7 @@ Config package.json (homepage, predeploy, and deploy) such as:
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
+  }
 ```
 4. Deploy react app
 ```
